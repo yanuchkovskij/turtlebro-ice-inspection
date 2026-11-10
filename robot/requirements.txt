@@ -1,0 +1,6 @@
+# На роботе (Ubuntu 24.04 + ROS 2 Jazzy, образ Voltbro turtlebro_v2.16).
+# rclpy, sensor_msgs, geometry_msgs, nav_msgs — уже есть в образе ROS 2.
+# OpenCV с модулем aruco — системный: sudo apt install python3-opencv
+numpy
+onnxruntime        # pip install onnxruntime --break-system-packages
+pillow             # необязательно: русские подписи на скриншотах

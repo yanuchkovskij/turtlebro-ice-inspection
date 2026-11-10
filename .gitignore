@@ -1,0 +1,18 @@
+# результаты заездов и кадры с камеры
+robot/logs/
+robot/frames/
+robot/last_*.jpg
+robot/*_vision.jpg
+robot/*_snow.jpg
+robot/*_animals.jpg
+robot/*_aruco.jpg
+robot/mission_out.log
+# настройки конкретного робота (пример — local_settings.example.json)
+robot/local_settings.json
+# обучение
+training/runs*/
+training/yoloanimals-*/
+*.pt
+__pycache__/
+*.pyc
+.env

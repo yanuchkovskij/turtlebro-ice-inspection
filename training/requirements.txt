@@ -1,0 +1,8 @@
+# На ноутбуке или в Google Colab
+ultralytics
+roboflow
+onnx
+onnxslim
+pyyaml
+pillow             # только для make_plate_templates.py
+opencv-python

@@ -1,0 +1,14 @@
+[Unit]
+Description=Hackathon mission launcher (start by hand in front of lidar)
+After=network.target turtlebro.service microros.service
+
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=/home/pi/hack
+ExecStart=/bin/bash -i /home/pi/hack/launcher.sh
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

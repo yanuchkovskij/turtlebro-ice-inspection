@@ -1,0 +1,9 @@
+{
+ "LIDAR_FRONT_DEG": 180.0,
+ "LIDAR_DIR": 1,
+ "TRIGGER_Y": 0.85,
+ "ODOM_SCALE": 1.0,
+ "YAW_SCALE": 1.0,
+ "MAX_LIN": 0.26,
+ "MAX_ANG": 1.5
+}

@@ -1,0 +1,7 @@
+[
+ {"x": 0.778, "y": 0.76,  "yaw_deg": -178.4, "inspect": true},
+ {"x": 0.739, "y": 1.18,  "yaw_deg": 95.1,   "inspect": true},
+ {"x": 2.122, "y": 1.267, "yaw_deg": 91.7,   "inspect": true},
+ {"x": 2.151, "y": 1.497, "yaw_deg": -91.7,  "inspect": true},
+ {"x": 0.0,   "y": 0.0,   "yaw_deg": 0.0,    "inspect": false}
+]
